@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="11275 1592 20 15">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="email" transform="translate(11275 1528)">
+    <g id="Group_171" data-name="Group 171" transform="translate(0 64)">
+      <path id="Path_268" data-name="Path 268" class="cls-1" d="M19.375,64H.625A.625.625,0,0,0,0,64.625v13.75A.625.625,0,0,0,.625,79h18.75A.625.625,0,0,0,20,78.375V64.625A.625.625,0,0,0,19.375,64Zm-1.782,1.25L10,71.324,2.407,65.25Zm1.157,12.5H1.25V65.925l8.359,6.688a.625.625,0,0,0,.781,0l8.359-6.688Z" transform="translate(0 -64)"/>
+    </g>
+  </g>
+</svg>

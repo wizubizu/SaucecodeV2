@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-129 2495 120 120.01">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #94d2d1;
+      }
+
+      .cls-2 {
+        fill: #7a51cc;
+        font-size: 16px;
+        font-family: CeraGR-Bold;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <g id="fan" transform="translate(-129.02 2495)">
+    <g id="Group_123" data-name="Group 123" transform="translate(20.42 10.8)">
+      <g id="Group_122" data-name="Group 122" transform="translate(0 0)">
+        <path id="Path_183" data-name="Path 183" class="cls-1" d="M197.556,150a17.58,17.58,0,1,0,0,35.159c9.693,0,18.059-7.887,18.059-17.58S207.249,150,197.556,150Z" transform="translate(-158.195 -125.639)"/>
+        <text id="FINALISTS" class="cls-2" transform="translate(0 13)"><tspan x="0" y="0">FINALISTS</tspan></text>
+      </g>
+    </g>
+    <g id="Group_125" data-name="Group 125" transform="translate(0.02)">
+      <g id="Group_124" data-name="Group 124">
+        <path id="Path_184" data-name="Path 184" class="cls-1" d="M116.935,38.249a10.341,10.341,0,0,0-3.942-2.4v-25.3a3.517,3.517,0,0,0-2.245-3.279C109.982,6.973,91.143,0,59.781,0S10.058,6.973,9.292,7.268a3.517,3.517,0,0,0-2.245,3.279v25.3a10.34,10.34,0,0,0-3.942,2.4,10.556,10.556,0,0,0,0,14.915L35.175,85.233v31.261a3.516,3.516,0,0,0,3.516,3.516H81.35a3.516,3.516,0,0,0,3.516-3.516V85.233l32.069-32.069A10.556,10.556,0,0,0,116.935,38.249ZM69.956,70.318H50.084L19.472,39.706a168.559,168.559,0,0,1,40.309-4.547,173.4,173.4,0,0,1,40.788,4.547Zm36.006-36.472c-7.429-2.139-23.7-5.72-46.181-5.72s-38.273,3.581-45.7,5.72V13.075c5.678-1.772,21.855-6.042,45.7-6.042s40.5,4.271,46.181,6.042Z" transform="translate(-0.02)"/>
+      </g>
+    </g>
+  </g>
+</svg>
