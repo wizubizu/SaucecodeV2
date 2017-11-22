@@ -96,9 +96,15 @@
 						<div class="col-md-10">
 							<p class="text-center w-900">We have sent a six-digit confirmation to adeembalalato@gmail.com!</p>
 							<div class="row m-t-10p">
-								<div class="col-md-2 col-sm-2"></div>
-								<div class="col-md-8 col-sm-8">
-									<div class="row">
+								<div class="col-md-2 col-xs-2 col-sm-3"></div>
+								<div class="col-md-8 col-xs-8 col-sm-6">
+									<input class="inputs p-8" type="text" maxlength="1" />
+									<input class="inputs p-8" type="text" maxlength="1" />
+									<input class="inputs p-8" type="text" maxlength="1" />
+									<input class="inputs p-8" type="text" maxlength="1" />
+									<input class="inputs p-8" type="text" maxlength="1" />
+									<input class="inputs p-8" type="text" maxlength="1" />
+									<!-- <div class="row">
 										<div class="col-md-2 col-xs-4 col-sm-2 text-center">
 											<p class="bd-brand width-35 h-50 p-t-10">5</p>
 										</div>
@@ -117,9 +123,9 @@
 										<div class="col-md-2 col-xs-4 col-sm-2 text-center">
 											<p class="bd-brand width-35 h-50 p-t-10">9</p>
 										</div>
-									</div>
+									</div> -->
 								</div>
-								<div class="col-md-2 col-sm-2"></div>
+								<div class="col-md-2 col-xs-2 col-sm-3"></div>
 							</div>	
 
 							<div class="row m-t-5p">
@@ -195,4 +201,15 @@
     <script src="libraries/bootstrap/js/bootstrap.min.js"></script>
     </script>
 </body>
+	<script type="text/javascript">
+		$(".inputs").keyup(function () {
+		    if (this.value.length == this.maxLength) {
+		      var $next = $(this).next('.inputs');
+		      if ($next.length)
+		          $(this).next('.inputs').focus();
+		      else
+		          $(this).blur();
+		    }
+		});
+	</script>
 	</html>

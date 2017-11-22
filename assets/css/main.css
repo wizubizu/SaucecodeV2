@@ -207,6 +207,7 @@ select:focus {
 .p-0 {padding:0 !important;}
 .p-3 {padding:3px !important;}
 .p-5 {padding:5px !important;}
+.p-8 {padding:8px !important;}
 .p-10 {padding:10px !important;}
 .p-14 {padding:14px !important;}
 .p-15 {padding:15px !important;}
@@ -256,6 +257,7 @@ select:focus {
 .p-t-15p {padding-top:15% !important}
 .p-t-20p {padding-top:20% !important}
 .p-t-30p {padding-top:30% !important}
+.p-t-38p {padding-top:38% !important}
 .p-t-40p {padding-top:40% !important}
 .p-t-45p {padding-top:45% !important}
 
@@ -289,6 +291,7 @@ select:focus {
 .p-b-25p {padding-bottom:25% !important;}
 .p-b-30p {padding-bottom:30% !important;}
 .p-b-33p {padding-bottom:33% !important;}
+.p-b-38p {padding-bottom:38% !important;}
 .p-b-40p {padding-bottom:40% !important;}
 .p-b-45p {padding-bottom:45% !important;}
 

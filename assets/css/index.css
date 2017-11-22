@@ -530,40 +530,40 @@
 /*Translation*/
 .photos img:nth-of-type(1) {
     left: 13%;
-    top: 160px;
+    top: 240px;
     /*bottom: 80px;*/
 }
  
 .photos img:nth-of-type(2) {
     /*left: 150px;
     top: 100px;*/
-    left: 32%;
-    bottom: -20px;
+    left: 37%;
+    bottom: -17px;
 }
  
 .photos img:nth-of-type(3) {
     /*left: 250px;*/
-    top: 90px;
-    left: 54%;
-    /*bottom: 70px;*/
+    /*top: 90px;*/
+    left: 60%;
+    bottom: 230px;
 }
  
 .photos img:nth-of-type(4) {
-    left: 32%;
+    left: 37%;
      top: 50px; 
     /*bottom: 506px;*/
 }
  
 .photos img:nth-of-type(5) {
-   	left: 45%;
+   	left: 38%;
     /* top: 50px; */
-    bottom: 390px;
+    bottom: 207px;
 }
 
 /*Rotation*/
 .photos img:nth-of-type(1) {
     left: 13%;
-    top: 160px;
+    top: 240px;
     -webkit-transform: rotate(5deg);
     -moz-transform: rotate(5deg);
     -o-transform: rotate(5deg);
@@ -573,8 +573,8 @@
 .photos img:nth-of-type(2) {
     /*left: 150px;
     top: 100px;*/
-    left: 32%;
-    bottom: -20px;
+    left: 37%;
+    bottom: -17px;
     -webkit-transform: rotate(-10deg);
     -moz-transform: rotate(-10deg);
     -o-transform: rotate(-10deg);
@@ -583,9 +583,9 @@
  
 .photos img:nth-of-type(3) {
     /*left: 250px;*/
-    top: 90px;
-    left: 54%;
-    /*bottom: 70px;*/
+    /*top: 90px;*/
+    left: 60%;
+    bottom: 230px;
     -webkit-transform: rotate(7deg);
     -moz-transform: rotate(7deg);
     -o-transform: rotate(7deg);
@@ -593,7 +593,7 @@
 }
  
 .photos img:nth-of-type(4) {
-    left: 32%;
+    left: 37%;
      top: 50px; 
    /* bottom: 187px;*/
     -webkit-transform: rotate(-3deg);
@@ -603,9 +603,9 @@
 }
  
 .photos img:nth-of-type(5) {
-    left: 43%;
+    left: 38%;
     /* top: 50px; */
-    bottom: 70px;
+    bottom: 207px;
     -webkit-transform: rotate(2deg);
     -moz-transform: rotate(2deg);
     -o-transform: rotate(2deg);
@@ -866,6 +866,9 @@
             transform: scale(1);
   }
 }
+
+.inputs { width: 30px !important; 
+    margin: 5px !important;  }
 /*SAURCCODE STYLE END*/
 
 
@@ -1000,7 +1003,7 @@
 
 		/*Translation*/
     .photos img:nth-of-type(1) {
-        left: 13%;
+        left: 8%;
         top: 160px;
         /*bottom: 80px;*/
     }
@@ -1009,7 +1012,7 @@
         /*left: 150px;
         top: 100px;*/
         left: 32%;
-        bottom: -30px;
+        bottom: 12px;
     }
      
     .photos img:nth-of-type(3) {
@@ -1021,19 +1024,19 @@
      
     .photos img:nth-of-type(4) {
         left: 32%;
-         top: 50px; 
+         top: 10px; 
         /*bottom: 506px;*/
     }
      
     .photos img:nth-of-type(5) {
-        left: 45%;
+        left: 36%;
         /* top: 50px; */
-        bottom: 390px;
+        bottom: 165px;
     }
 
     /*Rotation*/
     .photos img:nth-of-type(1) {
-        left: 13%;
+        left: 8%;
         top: 160px;
         -webkit-transform: rotate(5deg);
         -moz-transform: rotate(5deg);
@@ -1045,7 +1048,7 @@
         /*left: 150px;
         top: 100px;*/
         left: 32%;
-        bottom: -30px;
+        bottom: 12px;
         -webkit-transform: rotate(-10deg);
         -moz-transform: rotate(-10deg);
         -o-transform: rotate(-10deg);
@@ -1065,7 +1068,7 @@
      
     .photos img:nth-of-type(4) {
         left: 32%;
-         top: 50px; 
+         top: 10px; 
        /* bottom: 187px;*/
         -webkit-transform: rotate(-3deg);
         -moz-transform: rotate(-3deg);
@@ -1074,9 +1077,9 @@
     }
      
     .photos img:nth-of-type(5) {
-        left: 43%;
+        left: 36%;
         /* top: 50px; */
-        bottom: 70px;
+        bottom: 165px;
         -webkit-transform: rotate(2deg);
         -moz-transform: rotate(2deg);
         -o-transform: rotate(2deg);
